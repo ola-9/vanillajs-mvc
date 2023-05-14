@@ -1,0 +1,20 @@
+{
+  "name": "dom-i18n-yup-exercise",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.32.3",
+    "vite": "^4.2.0"
+  },
+  "dependencies": {
+    "i18next": "^22.4.14",
+    "on-change": "^4.0.2",
+    "yup": "^1.1.1"
+  }
+}
